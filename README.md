@@ -43,7 +43,7 @@
 ## For Netizens
 
 - Email: [sankalpdevkar@proton.me](mailto:sankalpdevkar@proton.me)
-- LinkedIn: [@saalp](https://linkedin.com/saakalp)
+- LinkedIn: [@saakalp](https://linkedin.com/saakalp)
 - X : [@saakalp](https://x.com/saakalp)
 - Instagram : [@saakalp](https://instagram.com/saakalp)
 
