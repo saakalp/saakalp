@@ -6,12 +6,12 @@
 **Designer • Builder**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@saakalp-blue?style=flat-square&logo=github)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sankalp-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saakalp-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@saakalp-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com)
 
 </div>
 
-## Orbit :
+## My Orbit :
 
 ### Languages & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -28,15 +28,10 @@
 ![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-47B881?style=flat-square&logo=finalcutpro&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat-square)
 
 ---
 
